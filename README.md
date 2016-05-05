@@ -1,2 +1,2 @@
-# nam
-Numerical analysis methods
+# Numerical analysis methods
+### Bisection method
