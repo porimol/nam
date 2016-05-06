@@ -1,12 +1,12 @@
 #!usr/bin/python
 
 #############################################################################################################
-#																											#
-# Author : P.C ROY																							#
-# Date & time : 06-05-2016 01:40:00																			#
-# Problem : Find the real root of equation x^3-x-4 = 0 using bisection method concept up to 3 decimal place	#
-# Mathematical solution : https://www.youtube.com/watch?v=DMZj48icYnE										#
-#																											#
+#
+# Author : P.C ROY
+# Date & time : 06-05-2016 01:40:00
+# Problem : Find the real root of equation x^3-x-4 = 0 using bisection method concept up to 3 decimal place
+# Mathematical solution : https://www.youtube.com/watch?v=DMZj48icYnE
+#
 #############################################################################################################
 
 from __future__ import division
