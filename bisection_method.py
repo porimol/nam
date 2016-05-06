@@ -54,4 +54,5 @@ def fx_func(x):
 	fx = math.pow(x, 3)-x-4 #formula x^3-x-4 = 0
 	return fx
 
-bs_method()
+if __name__ == "__main__":
+    bs_method()
